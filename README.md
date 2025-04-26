@@ -77,3 +77,4 @@ npm run preview
 ## Licencja
 
 Copyright © 2025 Fulmark. Wszelkie prawa zastrzeżone.
+# RiseFormularz
